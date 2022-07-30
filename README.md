@@ -11,7 +11,7 @@ This repository contains the hackerrank statistics challenge code.
 
 
 | Day           | Challenge                               | Level | Language|
-| :------------ |:--------------------------------------- |:-----:|Python|
+| :------------ |:--------------------------------------- |:-----:|:-----|
 | 0             | Mean, Median, and Mode                  | easy  |Python|
 | 0             | Weighted Mean                           | easy  |Python|
 | 1             | Quartiles                               | easy  |Python|
