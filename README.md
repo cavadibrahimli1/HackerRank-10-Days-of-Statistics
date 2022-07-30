@@ -10,6 +10,28 @@ This repository contains the hackerrank statistics challenge code.
 [Link of the site](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
 
 
+## Getting Started
+
+I strongly recommend you all to go through the Problem first on Hackerrank as it will develop your problem solving ability and come here as the last resort to find the solution.
+### Prerequisites
+
+Python3, Pycharm or repl.it for testing your built code.
+
+
+### Installing
+
+You can get Pycharm community version from [Pycharm](https://www.jetbrains.com/pycharm/).<br />
+Refer to [REPL.IT](https://repl.it/)<br/>
+Sign-up and create an account to create your own Repl. Amazing tool to have for any programming language.<br/>
+Command to install Python3 in Linux below:
+ 
+```
+sudo apt-get update
+sudo apt-get install python3
+sudo apt-get install python3-setuptools
+```
+
+
 | Day           | Challenge                               | Level | Language|
 | :------------ |:--------------------------------------- |:-----:|:-----|
 | 0             | Mean, Median, and Mode                  | easy  |Python|
